@@ -22,4 +22,4 @@ sh 'docker login -u=irphan964 -p=irphan@12524'
 //sh 'docker login -u irphan964 -p ${irphan@12524}'
 }
 }
-}
+
